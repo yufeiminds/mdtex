@@ -18,7 +18,7 @@ import pyLatex
 md = md2tex.md2tex()
 latex = pyLatex.pyLatex()
 
-md.loadmd("README.md")
+md.loadmd("./README.md")
 
 # Get params that you have defined in templates.
 params = {'title': md.getTitle(), 'content': md.parse()}

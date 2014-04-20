@@ -47,6 +47,9 @@ I am sorry to that the package only can use the following syntax
 and also can't insert newline symbol(except in block content)
 It only a model for easy to use, sure you can use LaTeX syntax by pyLatex, it's beautiful but not conciser than markdown.
 
+### title
+	like this title, with 1~4 '#' to mark it
+
 ### block
 	text/code block
 	this is block area
