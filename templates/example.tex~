@@ -1,0 +1,14 @@
+\documentclass[12pt, a4paper]{report}
+\usepackage{CJK}
+\begin{CJK*}{UTF8}{gkai}
+\title{ {% title %} }
+\author { 李宇飞 Yufei-Li \thanks{ sanguo0023@gmail.com } }
+			 \date{\today}
+\begin{document}
+\maketitle
+\tableofcontents
+
+{% content %}
+
+\end{CJK*}
+\end{document}
